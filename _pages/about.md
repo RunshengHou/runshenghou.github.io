@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there!👋 I'm currently a second-year master student at the <a href="https://iic.sdu.edu.cn/">Institute of Intelligent Computing (<b>IIC</b>)</a> of <a href="https://www.sdu.edu.cn/">Shandong University</a>, supervised by <a href="https://www.runyupan.com/"><b>Prof. Runyu Pan</b></a>. And now I'm working on embedded system, real-time system, and edge computing.
+# 🥳 Biography
+
+Hi there!👋 I'm currently a second-year master student at the <a href="https://iic.sdu.edu.cn/">Institute of Intelligent Computing (IIC)</a> of <a href="https://www.sdu.edu.cn/">Shandong University</a>, supervised by <a href="https://www.runyupan.com/"><b>Prof. Runyu Pan</b></a>. And now I'm working on embedded system, real-time system, and edge computing.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -39,13 +41,13 @@ Hi there!👋 I'm currently a second-year master student at the <a href="https:/
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+# 🥇 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - now*, Master, School of Computer Science and Technology, Shandong Univeristy, Qingdao. 
+- *2019.09 - 2023.07*, Undergraduate, School of Computer Science and Technology, Qingdao Univeristy, Qingdao. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
