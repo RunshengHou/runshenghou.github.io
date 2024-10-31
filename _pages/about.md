@@ -19,7 +19,9 @@ redirect_from:
 
 # 🥳 Biography
 
-Hi there!👋 I'm currently a second-year master student at the <a href="https://iic.sdu.edu.cn/">Institute of Intelligent Computing (IIC)</a> of <a href="https://www.sdu.edu.cn/">Shandong University</a>, supervised by <a href="https://www.runyupan.com/"><b>Prof. Runyu Pan</b></a>. And now I'm working on embedded system, real-time system, and edge computing.
+Hi there!👋 I'm currently a second-year master student at the <a href="https://iic.sdu.edu.cn/">Institute of Intelligent Computing (IIC)</a> of Shandong University, supervised by <a href="http://www.runyupan.com/">Prof. Runyu Pan</a>. And now I'm working on cloud-edge collaborative computing.
+
+My research interests lie in distributed computing and federated learning, microkernel system and lightweight virtualization, and how to apply machine learning algorithm to conventional operating system.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -42,16 +44,16 @@ Hi there!👋 I'm currently a second-year master student at the <a href="https:/
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🥇 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Outstanding Graduates (2023)
+- Merit Scholarship at Qingdao University (2020-2023)
+- Government Scholarships of Shandong (2021)
 
 # 📖 Educations
-- *2023.09 - now*, Master, School of Computer Science and Technology, Shandong Univeristy, Qingdao. 
-- *2019.09 - 2023.07*, Undergraduate, School of Computer Science and Technology, Qingdao Univeristy, Qingdao. 
+- *2023.09 - 2026.07*, M.S. in Computer Science, Shandong University, Qingdao. (GPA 4.0/4.0) 
+- *2019.09 - 2023.07*, B.S. in Computer Science, Qingdao University, Qingdao. (GPA 3.9/4.0) 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💻 Past Experiences
+- *2024.09 - 2025.01*, **Teaching Assistant** for Operating System at SDU
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Service
+- RTAS 2024, WASA 2024 sub-reviewer -->
